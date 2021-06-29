@@ -12,7 +12,7 @@
 
 4 - solve the challenge
 
-5 - run the test: ```rspec spec/lib/*.rb --format documentation
+5 - run the test: ```rspec spec/lib/*.rb --format documentation```
 
 # Requirements
 
